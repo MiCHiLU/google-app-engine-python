@@ -1,1 +1,15 @@
+000/introduction.md
+000/installing_python.md
+000/setup_terminal.md
+000/setup_python_virtual_environments.md
+000/python_virtual_environments.md
+000/python_shell.md
+000/documments.md
+000/python_library.md
+
+%% How to Googling http://www.slideshare.net/mhardy/extreme-googling-tips-tricks-for-expert-searching-presentation
+
+%%GAE
 oauth.md
+
+%% Pythonを教えるためのいくつかの提案 http://postd.cc/some-suggestions-for-teaching-python/
